@@ -11,3 +11,4 @@ input.addEventListener('click', clickAlert);
 
 
 }
+addingEventListener();
